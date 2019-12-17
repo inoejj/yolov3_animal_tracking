@@ -4,13 +4,13 @@ import cv2
 
 detector = CustomObjectDetection()
 detector.setModelTypeAsYOLOv3()
-detector.setModelPath("detection_model-ex-092--loss-4.340.h5")
-detector.setJsonPath(r"Z:\DeepLabCut\misc\tensorflow\ImageAI\project\data\json\detection_config.json") # download via https://github.com/OlafenwaMoses/ImageAI/releases/download/essential-v4/detection_config.json
+detector.setModelPath("detection_model-ex-092--loss-4.340.h5") ### change the model here
+detector.setJsonPath(os.path.join(os.getcwd(),r"detection_config.json"))  # download via https://github.com/OlafenwaMoses/ImageAI/releases/download/essential-v4/detection_config.json
 detector.loadModel()
 
-fileNames = os.listdir(r"Z:\DeepLabCut\misc\tensorflow\ImageAI\project\frames\Video8")
-outputFolder = (r"Z:\DeepLabCut\misc\tensorflow\ImageAI\project\frames\output2")
-inputPath = r"Z:\DeepLabCut\misc\tensorflow\ImageAI\project\frames\Video8"
+fileNames = os.listdir(r"Z:\DeepLabCut\misc\tensorflow\ImageAI\project\frames\Video8") ## folder containing frames
+outputFolder = (r"Z:\DeepLabCut\misc\tensorflow\ImageAI\project\frames\output2") ##set output folder here
+inputPath = r"Z:\DeepLabCut\misc\tensorflow\ImageAI\project\frames\Video8" ###set input here
 
 ##OUTPUT NEW IMAGES
 for i in fileNames:
