@@ -6,7 +6,7 @@ Tracking black mouse and white mouse using YOLOv3. (please click [here](https://
 
 ![YOLOv3 Demo](images/yolov3onanimal.gif)
 
-## Tutorial
+## Getting started
 
 1. Download the animal_detection_yolo.py and detection_config.json by downloading as zip or clone the repository.
 
