@@ -1,0 +1,13 @@
+1. Make yoloproject outline using script/gui
+
+2. Import video into the project
+
+3. Extract images.
+
+3. Use vott to annotate.
+
+4. change the format
+
+5. train.
+
+6. detector.
