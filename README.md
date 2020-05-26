@@ -10,7 +10,7 @@ Tracking black mouse and white mouse using YOLOv3. (please click [here](https://
 
 1. Clone this repository.
 
-2. Download *yolo.h5* file and place it in the directory `yolo_v3_gui\src\keras_yolo3`
+2. Download [*yolo.h5*](https://osf.io/fynvr/)  and place it in the directory `yolo_v3_gui\src\keras_yolo3`
 
 3. Navigate to the *yolo_v3_gui* folder and open up command prompt.
 
