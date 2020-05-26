@@ -8,8 +8,24 @@ Tracking black mouse and white mouse using YOLOv3. (please click [here](https://
 
 ## Getting started
 
-1. Download the animal_detection_yolo.py and detection_config.json by downloading as zip or clone the repository.
+1. Clone this repository.
 
-2. Go to [https://osf.io/fynvr/](https://osf.io/fynvr/), download the model `detection_model-ex-092--loss-4.340.h5` and the video frames folder.
+2. Download *yolo.h5* file and place it in the directory `yolo_v3_gui\src\keras_yolo3`
 
-3. In the animal_detection_yolo.py file, change the file path accordingly and execute.
+3. Navigate to the *yolo_v3_gui* folder and open up command prompt.
+
+4. In the command prompt type in `python yolo_GUI.py`.
+
+5. A tkinter graphical user interface will pop up.
+
+6. Create a yolo project.
+
+7. Label some images using [vott by microsoft](https://github.com/Microsoft/VoTT/releases).
+
+8. Train model.
+
+9. Apply trained weight on videos/images.
+
+
+
+
