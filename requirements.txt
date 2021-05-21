@@ -66,4 +66,4 @@ requests == 2.23.0
 src == 0.0.7
 
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\src\keras_yolo3\yolo3\model.py: 6,22
-tensorflow == 1.14.0
+tensorflow == 2.5.0
