@@ -43,7 +43,7 @@ numpy == 1.18.4
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\yolo_methods\extractBoundingbox_image.py: 1
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\yolo_methods\extractBoundingbox_video.py: 1
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\yolo_utils\utils.py: 2
-opencv_python == 3.4.5.20
+opencv_python == 4.2.0.32
 
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\src\keras_yolo3\yolo.py: 20
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\yolo_methods\Detector.py: 12
