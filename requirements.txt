@@ -17,7 +17,7 @@ Keras == 2.3.1
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\yolo_methods\Train_YOLO.py: 14
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\yolo_utils\Train_Utils.py: 30
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\yolo_utils\utils.py: 8
-Pillow == 5.4.1
+Pillow == 9.0.1
 
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\yolo_utils\utils.py: 3
 h5py == 2.10.0
