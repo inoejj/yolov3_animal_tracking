@@ -37,7 +37,7 @@ matplotlib == 3.0.3
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\yolo_methods\Train_YOLO.py: 6
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\yolo_utils\Train_Utils.py: 22
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\yolo_utils\utils.py: 5
-numpy == 1.18.4
+numpy == 1.22.0
 
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\src\keras_yolo3\yolo.py: 226
 # Z:\Golden_Lab_Users\Choong_JJ\yolo_v3_gui\yolo_methods\extractBoundingbox_image.py: 1
